@@ -30,7 +30,7 @@ Selecting the right **crop** for a specific soil type is crucial for maximizing 
 To get started with **YieldOptimizer**, follow these steps:
 1. ### Clone the repository:
 ```
-    git clone https://github.com/TolaniSilas/YieldOptimizer.git <br>
+    git clone https://github.com/TolaniSilas/YieldOptimizer.git
     cd YieldOptimizer
 ```
 
