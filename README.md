@@ -37,9 +37,9 @@ To get started with **YieldOptimizer**, follow these steps:
     venv/Scripts/activate
 
 3. ### Install the required packages:
-'''
+```
     pip install -r requirements.txt
-'''
+```
 
 
 
