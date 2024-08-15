@@ -29,8 +29,10 @@ Selecting the right **crop** for a specific soil type is crucial for maximizing 
 ## Installation
 To get started with **YieldOptimizer**, follow these steps:
 1. ### Clone the repository:
+```
     git clone https://github.com/TolaniSilas/YieldOptimizer.git <br>
     cd YieldOptimizer
+```
 
 2. ### Set up a virtual environment:
     python -m venv venv
