@@ -34,9 +34,11 @@ To get started with **YieldOptimizer**, follow these steps:
     cd YieldOptimizer
 ```
 
-2. ### Set up a virtual environment:
+2. ### Set up and activate a virtual environment:
+``` 
     python -m venv venv
     venv/Scripts/activate
+```
 
 3. ### Install the required packages:
 ```
@@ -52,7 +54,7 @@ The **YieldOptimizer application** provides a user-friendly interface to predict
 - #### Start the application server:
     python yield-optimizer-app.py
 
-- Open your web browser and go to http://yield-optimizer to access the Yield Optimizer app interface.
+- Open your web browser and go to ```http://yield-optimizer``` to access the Yield Optimizer app interface.
 
 2. ### Use the Application:
 - #### Input Soil Data: Enter the soil's nitrogen, phosphorus, potassium levels, and pH value into the form provided in the app.
